@@ -1,0 +1,29 @@
+{
+  "profilBakuda": [
+    {
+      "slug": "/visi-misi",
+      "judul": "Visi Misi Badan Keuangan Daerah",
+      "konten": "Visi Misi"
+    },
+    {
+      "slug": "/tugas-pokok-fungsi",
+      "judul": "Tugas Pokok dan Fungsi Badan Keuangan Daerah",
+      "konten": "Tugas Pokok dan Fungsi Badan Keuangan Daerah"
+    },
+    {
+      "slug": "/rencana-strategis",
+      "judul": "Rencana Strategis Badan Keuangan Daerah",
+      "konten": "Rencana Strategis Badan Keuangan Daerah"
+    },
+    {
+      "slug": "/struktur-organisasi",
+      "judul": "Struktur Organisasi Badan Keuangan Daerah",
+      "konten": "Struktur Organisasi Badan Keuangan Daerah"
+    },
+    {
+      "slug": "/data-kepegawaian",
+      "judul": "Data Kepegawaian Badan Keuangan Daerah",
+      "konten": "Data Kepegawaian Badan Keuangan Daerah"
+    }
+  ]
+}
